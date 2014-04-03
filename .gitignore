@@ -1,0 +1,6 @@
+# vim
+.*.sw[a-p]
+
+# os related files
+.DS_Store
+desktop.ini
